@@ -1,0 +1,6 @@
+public class ConsoleSales extends Consoles {
+    
+    public AcceptConsoleType(String deviceType, String storeName, totalSalesAmount) {
+        super(deviceType, storeName, totalSalesAmount);
+    }
+}
